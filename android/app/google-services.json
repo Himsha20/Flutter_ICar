@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62248477413",
+    "project_id": "icar-6ef9f",
+    "storage_bucket": "icar-6ef9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62248477413:android:4356cdce40190e60812a0c",
+        "android_client_info": {
+          "package_name": "com.himsha.icar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62248477413-ea0f904ne6s86ippfi556jpu005hsesg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEBamrMXE1TO-FpgQs8kjeANLqygcoGjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62248477413-ea0f904ne6s86ippfi556jpu005hsesg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
